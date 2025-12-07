@@ -14,7 +14,7 @@ const API_URL = 'http://localhost:3000';
 // 1. Navigation Bar
 const Navbar = ({ onLogout }) => (
   <nav style={styles.nav} aria-label="Main Navigation">
-    <div style={styles.navBrand} role="heading" aria-level="1">E71 Healthcare App</div>
+    <div style={styles.navBrand} role="heading" aria-level="1">E73 Healthcare App</div>
     <div style={styles.navLinks}>
       <Link to="/dashboard" style={styles.link}>Dashboard</Link>
       <Link to="/summary" style={styles.link}>Summary</Link>
