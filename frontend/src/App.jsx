@@ -92,7 +92,7 @@ const Dashboard = () => (
     <article style={styles.card}>
       <h2>Topic: Innovations in Healthcare</h2>
       <p style={styles.text}>
-        This text is based on an analysis of emerging innovations in the healthcare sector, specifically those poised to transform care delivery over the next decade.
+        There are many emerging innovations in the healthcare sector, specifically those poised to transform care delivery over the next decade.
         The primary driver for this shift appears to be the industry's need to achieve "more for less"—enhancing value and outcomes while simultaneously reducing costs.
         Key factors in driving this transformation include the transition from fee-for-service models to value-based care, as well as the rising influence of consumerism and data availability.
       </p>
